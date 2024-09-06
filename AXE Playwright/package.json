@@ -1,0 +1,21 @@
+{
+  "name": "axe-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.3",
+    "@types/node": "^22.0.0",
+    "axe-core": "^4.10.0",
+    "axe-playwright": "^2.0.1"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.9.1",
+    "axe-html-reporter": "^2.2.5",
+    "playwright": "^1.45.3"
+  }
+}
